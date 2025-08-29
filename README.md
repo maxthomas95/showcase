@@ -17,16 +17,16 @@ If something here saves you time or sparks an idea, then it’s done its job.
 
 | Repo | Description | Tech Stack | Status |
 |------|-------------|------------|--------|
+| [CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo) | Demo repo for my Meraki automation talk (pulls device data via API) | Python, Meraki API, Azure Key Vault | Complete |
 | [work-network](https://github.com/maxthomas95/work-network) | Networking automation & infra examples (NetBox, DHCP, DNS, etc.) | Terraform, PowerShell, NetBox | Ongoing |
 | [work-azure](https://github.com/maxthomas95/work-azure) | Azure infrastructure-as-code examples (VNets, peering, IAM groups) | Terraform | Ongoing |
 | [work-containers](https://github.com/maxthomas95/work-containers) | Containerized services & deployment patterns (Docker Compose, Vault) | Docker, Vault | Ongoing |
-| [work-systems](https://github.com/maxthomas95/work-systems) *(planned)* | Systems engineering references (Intune, Ansible hardening, PS scripts) | Ansible, Intune, PowerShell | In Progress |
-| [CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo) | Demo repo for my Meraki automation talk (pulls device data via API) | Python, Meraki API, Azure Key Vault | Stable |
-| [protein-price-comparator](https://github.com/maxthomas95/protein-price-comparator) | Fun side-tool: compare protein costs per gram | Python, Flask, Docker | Stable |
+| [work-systems](https://github.com/maxthomas95/work-systems) | Systems engineering references (Intune, Ansible hardening, PS scripts) | Ansible, Intune, PowerShell | In Progress |
+| [protein-price-comparator](https://github.com/maxthomas95/protein-price-comparator) | Fun side-tool: compare protein costs per gram | Python, Flask, Docker | MVP |
 | [homelab-jarvis](https://github.com/maxthomas95/homelab-jarvis) | Personal AI assistant w/ Home Assistant integration (inspired by J.A.R.V.I.S.) | Python, OpenAI API, FAISS | Ongoing |
-| [homelab](https://github.com/maxthomas95/homelab) | My self-hosted environment docs & automation | Docker, Proxmox, TrueNAS | Dead |
-| [vscode-gif](https://github.com/maxthomas95/vscode-gif) | Small demo repo for VS Code workflows | Misc | In-Development |
-| [main](https://github.com/maxthomas95/main) | Miscellaneous root repo / scratchpad | Mixed | Dead |
+| [vscode-gif](https://github.com/maxthomas95/vscode-gif) | Small demo repo for VS Code workflows | Misc | Interal-Only |
+| [homelab](https://github.com/maxthomas95/homelab) | My self-hosted environment docs & automation | Docker, Proxmox, TrueNAS | Not-In-Use |
+| [main](https://github.com/maxthomas95/main) | Miscellaneous root repo / scratchpad | Mixed | Not-In-Use  |
 
 ---
 
