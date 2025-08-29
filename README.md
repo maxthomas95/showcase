@@ -5,9 +5,9 @@
 ---
 
 Welcome!  
-This repo is my **public showcase of patterns and projects** I’ve built in my professional work and personal life. 
-Think of it as a portfolio: these are patterns, demos, and reference implementations that reflect how I build and solve problems.
-I share these not just to highlight what I’ve done, but to help others **learn faster, avoid roadblocks, and make their own lives a little easier**.  
+This repo is my **public showcase of patterns and projects** from both my professional work and personal homelab. Think of it as a portfolio of patterns, demos, and reference implementations that reflect how I build and solve problems.  
+
+I share these not just to highlight what I’ve done, but to help others **learn faster, avoid roadblocks, and simplify their own work**.  
 
 If something here saves you time or sparks an idea, then it’s done its job.
 
