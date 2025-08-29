@@ -17,8 +17,8 @@ If something here saves you time or sparks an idea, then it’s done its job.
 
 | Repo | Description | Tech Stack | Status |
 |------|-------------|------------|--------|
-| ⭐ [CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo) | Demo scripts for automating Meraki audits and network health checks; includes basic and secure versions with email reporting | Python, Meraki API, Azure Key Vault | Complete |
-| ⭐ [work-network](https://github.com/maxthomas95/work-network) | Unified automation for Cisco networks (Meraki + on-prem Nexus) with Terraform, Ansible, and Python workflows | Python, Terraform, Ansible, Meraki API, Azure Key Vault | Ongoing |
+| [CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo) | Demo scripts for automating Meraki audits and network health checks; includes basic and secure versions with email reporting | Python, Meraki API, Azure Key Vault | Complete |
+| [work-network](https://github.com/maxthomas95/work-network) | Unified automation for Cisco networks (Meraki + on-prem Nexus) with Terraform, Ansible, and Python workflows | Python, Terraform, Ansible, Meraki API, Azure Key Vault | Ongoing |
 | [work-azure](https://github.com/maxthomas95/work-azure) | PowerShell scripts for Azure subnet management and analysis + more to come | PowerShell | Ongoing |
 | [work-containers](https://github.com/maxthomas95/work-containers) | Placeholder repo, no content yet | — | Initial |
 | [work-systems](https://github.com/maxthomas95/work-systems) | Currently private) | — | N/A |
