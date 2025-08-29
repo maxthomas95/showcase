@@ -27,6 +27,17 @@ Think of it as a portfolio: these are patterns, demos, and reference implementat
 
 ---
 
+## 🌟 Highlighted Repos
+
+While all of these projects are in different stages of progress, two are the most **feature-complete and interesting** right now:
+
+- **[work-network](https://github.com/maxthomas95/work-network)** – A solid collection of network automation examples, including NetBox integrations, DHCP/DNS automation, and Terraform workflows.  
+- **[CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo)** – A polished demo I presented at Cisco Tech Days, showcasing Meraki API automation, Key Vault integration, and CSV export.
+
+These are great starting points if you want to see my more production-ready style of work.
+
+---
+
 ## 🔒 About These Repos
 
 - **Sanitized for public release**  
