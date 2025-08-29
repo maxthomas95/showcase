@@ -1,6 +1,6 @@
 # 🧰 Max’s Work Showcase
 
-> 💡 *“This isn’t my company’s source code — it’s a curated collection of sanitized examples showing how I approach infrastructure, automation, and systems engineering.”*
+> 💡 *“This isn’t my company’s source code — it’s a curated collection of sanitized examples showing how I approach infrastructure, automation, and network/systems engineering.”*
 
 ---
 
