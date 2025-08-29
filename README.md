@@ -17,27 +17,26 @@ If something here saves you time or sparks an idea, then it’s done its job.
 
 | Repo | Description | Tech Stack | Status |
 |------|-------------|------------|--------|
-| [CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo) | Demo repo for my Meraki automation talk (pulls device data via API) | Python, Meraki API, Azure Key Vault | Complete |
-| [work-network](https://github.com/maxthomas95/work-network) | Networking automation & infra examples (NetBox, DHCP, DNS, etc.) | Terraform, PowerShell, NetBox | Ongoing |
-| [work-azure](https://github.com/maxthomas95/work-azure) | Azure infrastructure-as-code examples (VNets, peering, IAM groups) | Terraform | Ongoing |
-| [work-containers](https://github.com/maxthomas95/work-containers) | Containerized services & deployment patterns (Docker Compose, Vault) | Docker, Vault | Ongoing |
-| [work-systems](https://github.com/maxthomas95/work-systems) | Systems engineering references (Intune, Ansible hardening, PS scripts) | Ansible, Intune, PowerShell | In Progress |
-| [protein-price-comparator](https://github.com/maxthomas95/protein-price-comparator) | Fun side-tool: compare protein costs per gram | Python, Flask, Docker | MVP |
-| [homelab-jarvis](https://github.com/maxthomas95/homelab-jarvis) | Personal AI assistant w/ Home Assistant integration (inspired by J.A.R.V.I.S.) | Python, OpenAI API, FAISS | Ongoing |
-| [vscode-gif](https://github.com/maxthomas95/vscode-gif) | Small demo repo for VS Code workflows | Misc | Interal-Only |
-| [homelab](https://github.com/maxthomas95/homelab) | My self-hosted environment docs & automation | Docker, Proxmox, TrueNAS | Not-In-Use |
-| [main](https://github.com/maxthomas95/main) | Miscellaneous root repo / scratchpad | Mixed | Not-In-Use  |
+| ⭐ [CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo) | Demo scripts for automating Meraki audits and network health checks; includes basic and secure versions with email reporting | Python, Meraki API, Azure Key Vault | Complete |
+| ⭐ [work-network](https://github.com/maxthomas95/work-network) | Unified automation for Cisco networks (Meraki + on-prem Nexus) with Terraform, Ansible, and Python workflows | Python, Terraform, Ansible, Meraki API, Azure Key Vault | Ongoing |
+| [work-azure](https://github.com/maxthomas95/work-azure) | PowerShell scripts for Azure subnet management and analysis + more to come | PowerShell | Ongoing |
+| [work-containers](https://github.com/maxthomas95/work-containers) | Placeholder repo, no content yet | — | Initial |
+| [work-systems](https://github.com/maxthomas95/work-systems) | Currently private) | — | N/A |
+| [protein-price-comparator](https://github.com/maxthomas95/protein-price-comparator) | Static web app to compare groceries/powders by cost per gram and per 30 g; runs in browser or via Docker/Nginx | HTML, CSS, JavaScript, Nginx, Docker | MVP |
+| [homelab-jarvis](https://github.com/maxthomas95/homelab-jarvis) | Voice-activated AI assistant with Home Assistant integration, GPT, ElevenLabs voice, and memory | Python, OpenAI API, ElevenLabs, Home Assistant API, FAISS | Ongoing |
+| [vscode-gif](https://github.com/maxthomas95/vscode-gif) | Placeholder VS Code extension (“Bring your favorite GIFs, memes, and reaction images right into VS Code!”) | — | Internal-Only |
+| [homelab](https://github.com/maxthomas95/homelab) | Placeholder repo  | — | Not-In-Use |
+| [main](https://github.com/maxthomas95/main) | Placeholder repo  | — | Not-In-Use |
+
 
 ---
 
-## 🌟 Highlighted Repos
+## 🌟 Featured Repos
 
-While all of these projects are in different stages of progress, two are the most **feature-complete and interesting** right now:
+If you only check out a couple of these, start here — they’re the most **feature-complete and production-ready** examples in this showcase:
 
-- **[work-network](https://github.com/maxthomas95/work-network)** – A solid collection of network automation examples, including NetBox integrations, DHCP/DNS automation, and Terraform workflows.  
-- **[CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo)** – A polished demo I presented at Cisco Tech Days, showcasing Meraki API automation, Key Vault integration, and CSV export.
-
-These are great starting points if you want to see my more production-ready style of work.
+- ⭐ **[CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo)** – A polished demo I presented at Cisco Tech Days, showcasing Meraki API automation, Azure Key Vault integration, and CSV export.
+- ⭐ **[work-network](https://github.com/maxthomas95/work-network)** – A comprehensive set of network automation workflows, including NetBox integrations, DHCP/DNS automation, and Terraform + Ansible for Cisco/Meraki environments.
 
 ---
 
