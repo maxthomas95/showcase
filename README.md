@@ -1,75 +1,67 @@
-# 🧰 Max’s Work Showcase
+# Max Thomas - Infrastructure & Automation Portfolio
 
-> 💡 *“This isn’t my company’s source code — it’s a curated collection of sanitized examples showing how I approach infrastructure, automation, and network/systems engineering.”*
-
----
-
-Welcome!  
-This repo is my **public showcase of patterns and projects** from both my professional work and personal homelab. Think of it as a portfolio of patterns, demos, and reference implementations that reflect how I build and solve problems.  
-
-I share these not just to highlight what I’ve done, but to help others **learn faster, avoid roadblocks, and simplify their own work**.  
-
-If something here saves you time or sparks an idea, then it’s done its job.
+A curated collection of sanitized code examples demonstrating infrastructure automation, network engineering, and systems development patterns from professional and personal projects.
 
 ---
 
-## 📂 Repository Index
+## Featured Projects
 
-| Repo | Description | Tech Stack | Status |
-|------|-------------|------------|--------|
-| [CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo) | Demo scripts for automating Meraki audits and network health checks; includes basic and secure versions with email reporting | Python, Meraki API, Azure Key Vault | Complete |
-| [work-network](https://github.com/maxthomas95/work-network) | Unified automation for Cisco networks (Meraki + on-prem Nexus) with Terraform, Ansible, and Python workflows | Python, Terraform, Ansible, Meraki API, Azure Key Vault | Ongoing |
-| [work-azure](https://github.com/maxthomas95/work-azure) | PowerShell scripts for Azure subnet management and analysis + more to come | PowerShell | Ongoing |
-| [work-containers](https://github.com/maxthomas95/work-containers) | Placeholder repo, no content yet | — | Initial |
-| [work-systems](https://github.com/maxthomas95/work-systems) | Currently private) | — | N/A |
-| [protein-price-comparator](https://github.com/maxthomas95/protein-price-comparator) | Static web app to compare groceries/powders by cost per gram and per 30 g; runs in browser or via Docker/Nginx | HTML, CSS, JavaScript, Nginx, Docker | MVP |
-| [homelab-jarvis](https://github.com/maxthomas95/homelab-jarvis) | Voice-activated AI assistant with Home Assistant integration, GPT, ElevenLabs voice, and memory | Python, OpenAI API, ElevenLabs, Home Assistant API, FAISS | Ongoing |
-| [vscode-gif](https://github.com/maxthomas95/vscode-gif) | Placeholder VS Code extension (“Bring your favorite GIFs, memes, and reaction images right into VS Code!”) | — | Internal-Only |
-| [homelab](https://github.com/maxthomas95/homelab) | Placeholder repo  | — | Not-In-Use |
-| [main](https://github.com/maxthomas95/main) | Placeholder repo  | — | Not-In-Use |
+**[CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo)**
+Production-ready automation for Meraki network audits and health monitoring. Includes secure credential management via Azure Key Vault, automated email reporting, and CSV export capabilities. Presented at Cisco Tech Days.
+*Python, Meraki API, Azure Key Vault*
 
+**[vscode-gif](https://github.com/maxthomas95/vscode-gif)**
+VS Code extension for integrating GIFs and reaction images into the editor
+*TypeScript, VS Code API*
 
 ---
 
-## 🌟 Featured Repos
+## All Projects
 
-If you only check out a couple of these, start here — they’re the most **feature-complete and production-ready** examples in this showcase:
-
-- ⭐ **[CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo)** – A polished demo I presented at Cisco Tech Days, showcasing Meraki API automation, Azure Key Vault integration, and CSV export.
-- ⭐ **[work-network](https://github.com/maxthomas95/work-network)** – A comprehensive set of network automation workflows, including NetBox integrations, DHCP/DNS automation, and Terraform + Ansible for Cisco/Meraki environments.
-
----
-
-## 🔒 About These Repos
-
-- **Sanitized for public release**  
-  No secrets, sensitive configs, or internal hostnames.  
-- **Reference-first**  
-  These repos are *examples* of patterns, not production-ready code drops.  
-- **Living portfolio**  
-  I update, restructure, or retire repos as my work evolves.
+| Repository | Description | Technologies | Status |
+|------------|-------------|--------------|--------|
+| [CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo) | Automated Meraki network audits with secure credential management and email reporting | Python, Meraki API, Azure Key Vault | Production |
+| [work-network](https://github.com/maxthomas95/work-network) | Enterprise network automation for Cisco/Meraki with Terraform and Ansible workflows | Python, Terraform, Ansible, Meraki API, Azure Key Vault | Active |
+| [work-azure](https://github.com/maxthomas95/work-azure) | Azure infrastructure automation and subnet management utilities | PowerShell | Active |
+| [homelab-jarvis](https://github.com/maxthomas95/homelab-jarvis) | Voice-activated AI assistant with Home Assistant integration and persistent memory | Python, OpenAI API, ElevenLabs, Home Assistant API, FAISS | Active |
+| [protein-price-comparator](https://github.com/maxthomas95/protein-price-comparator) | Cost comparison tool for protein sources with containerized deployment | HTML, CSS, JavaScript, Nginx, Docker | Complete |
+| [vscode-gif](https://github.com/maxthomas95/vscode-gif) | VS Code extension for integrating GIFs and reaction images into the editor | TypeScript, VS Code API | Public |
+| [work-systems](https://github.com/maxthomas95/work-systems) | Systems automation and configuration management | TBD | Private |
 
 ---
 
-## 🚀 How to Use This Showcase
+## About This Showcase
 
-- **Clone & explore**: Most repos have clear READMEs and sample configs.  
-- **Steal with pride**: Copy patterns that help your own automation/infrastructure.  
-- **Follow along**: I add new repos and examples as I go.  
+**Sanitized for Public Release**
+All code has been scrubbed of proprietary information, credentials, and internal identifiers. These are reference implementations demonstrating technical approaches and patterns.
 
----
+**Focus Areas**
+- Network automation and infrastructure-as-code
+- Cloud infrastructure (Azure)
+- API integration and secure credential management
+- Container orchestration and deployment
+- Systems automation
 
-## 📌 Notes
-
-- If you’re looking for something specific (e.g., Azure Terraform modules, NetBox + Vault integration, Ansible roles), check the table above.
-- Want to know how I use these in real environments? See the `docs/` folder (coming soon) for writeups.
-
----
-
-## 📜 License
-
-All repos default to [MIT License](LICENSE) unless otherwise specified.  
+**Repository Standards**
+Each project includes documentation, example configurations, and clear README files. Code follows industry best practices for the respective technology stack.
 
 ---
 
-⭐ If something here helps you, consider starring the repo or dropping a note!
+## Technical Background
+
+**Lead Systems Engineer** | Infrastructure Automation, Cloud Architecture, Enterprise Network Engineering
+
+**Connect**: [Website](https://max-thomas.com/) • [Links](https://links.max-thomas.com/) • [LinkedIn](https://www.linkedin.com/in/max-thomas-9a1452b0/) • [max@thomashomecompany.com](mailto:max@thomashomecompany.com)
+
+This portfolio represents work across:
+- **Network Engineering**: Cisco Meraki, Nexus switches, API automation
+- **Cloud Infrastructure**: Azure resource management, PowerShell automation
+- **Development**: Python, PowerShell, TypeScript, web technologies
+- **DevOps**: Terraform, Ansible, Docker, CI/CD patterns
+- **Security**: Azure Key Vault integration, secrets management
+
+---
+
+## License
+
+All repositories use the [MIT License](LICENSE) unless otherwise specified.
