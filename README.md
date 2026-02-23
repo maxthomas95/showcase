@@ -1,64 +1,65 @@
-# Max Thomas - Infrastructure & Automation Portfolio
+# Max Thomas - Project Showcase
 
-A curated collection of sanitized code examples demonstrating infrastructure automation, network engineering, and systems development patterns from professional and personal projects.
+A collection of professional and personal projects across infrastructure, automation, AI, and developer tooling.
+
+**Connect**: [Website](https://max-thomas.com/) | [Links](https://links.max-thomas.com/) | [LinkedIn](https://www.linkedin.com/in/max-thomas-9a1452b0/) | [max@thomashomecompany.com](mailto:max@thomashomecompany.com)
 
 ---
 
 ## Featured Projects
 
-**[CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo)**
-Production-ready automation for Meraki network audits and health monitoring. Includes secure credential management via Azure Key Vault, automated email reporting, and CSV export capabilities. Presented at Cisco Tech Days.
-*Python, Meraki API, Azure Key Vault*
+**[JOBS](https://github.com/maxthomas95/JOBS)** — Self-hosted pixel-art visualization of Claude Code agent sessions — animated characters at workstations with real-time WebSocket updates.
+*React 19, TypeScript, PixiJS, WebSocket, Docker*
 
-**[vscode-gif](https://github.com/maxthomas95/vscode-gif)**
-VS Code extension for integrating GIFs and reaction images into the editor
+**[vscode-gif](https://github.com/maxthomas95/vscode-gif)** — VS Code extension for browsing and displaying GIFs, APNGs, and reaction images in the Explorer sidebar. Published on the VS Code Marketplace.
 *TypeScript, VS Code API*
 
----
-
-## All Projects
-
-| Repository | Description | Technologies | Status |
-|------------|-------------|--------------|--------|
-| [CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo) | Automated Meraki network audits with secure credential management and email reporting | Python, Meraki API, Azure Key Vault | Production |
-| [work-network](https://github.com/maxthomas95/work-network) | Enterprise network automation for Cisco/Meraki with Terraform and Ansible workflows | Python, Terraform, Ansible, Meraki API, Azure Key Vault | Active |
-| [work-azure](https://github.com/maxthomas95/work-azure) | Azure infrastructure automation and subnet management utilities | PowerShell | Active |
-| [homelab-jarvis](https://github.com/maxthomas95/homelab-jarvis) | Voice-activated AI assistant with Home Assistant integration and persistent memory | Python, OpenAI API, ElevenLabs, Home Assistant API, FAISS | Active |
-| [protein-price-comparator](https://github.com/maxthomas95/protein-price-comparator) | Cost comparison tool for protein sources with containerized deployment | HTML, CSS, JavaScript, Nginx, Docker | Complete |
-| [vscode-gif](https://github.com/maxthomas95/vscode-gif) | VS Code extension for integrating GIFs and reaction images into the editor | TypeScript, VS Code API | Public |
-| [work-systems](https://github.com/maxthomas95/work-systems) | Systems automation and configuration management | TBD | Private |
+**[CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo)** — Production-ready automation for Meraki network audits and health monitoring. Includes secure credential management via Azure Key Vault, automated email reporting, and CSV export. Presented at Cisco Tech Days.
+*Python, Meraki API, Azure Key Vault*
 
 ---
 
-## About This Showcase
+## Work Projects
 
-**Sanitized for Public Release**
-All code has been scrubbed of proprietary information, credentials, and internal identifiers. These are reference implementations demonstrating technical approaches and patterns.
+**[work-network](https://github.com/maxthomas95/work-network)** — Enterprise network automation for Cisco/Meraki with Terraform and Ansible workflows.
+*Python, Terraform, Ansible, Meraki API, Azure Key Vault*
 
-**Focus Areas**
+**[work-azure](https://github.com/maxthomas95/work-azure)** — Azure infrastructure automation and subnet management utilities.
+*PowerShell*
+
+**[CiscoTechDayDemo](https://github.com/maxthomas95/CiscoTechDayDemo)** — Automated Meraki network audits with secure credential management and email reporting.
+*Python, Meraki API, Azure Key Vault*
+
+## Personal Projects
+
+**[homelab-jarvis](https://github.com/maxthomas95/homelab-jarvis)** — Voice-first AI home assistant with wake-word activation, smart home control, infrastructure monitoring, and conversational memory via vector databases.
+*Python, OpenAI API, ElevenLabs, Home Assistant API, FAISS*
+
+**[protein-price-comparator](https://github.com/maxthomas95/protein-price-comparator)** — Compare grocery items and protein powders by cost per gram, with Docker deployment and offline support.
+*HTML, CSS, JavaScript, Nginx, Docker*
+
+**[JOBS](https://github.com/maxthomas95/JOBS)** — Real-time pixel-art visualization of Claude Code agent activity.
+*React 19, TypeScript, PixiJS, WebSocket, Docker*
+
+## Developer Tools
+
+**[vscode-gif](https://github.com/maxthomas95/vscode-gif)** — VS Code extension for browsing and displaying GIFs, APNGs, and reaction images in the Explorer sidebar.
+*TypeScript, VS Code API*
+
+**[catppuccin-claude-desktop](https://github.com/maxthomas95/catppuccin-claude-desktop)** — Catppuccin Mocha theme injector for Claude Desktop via Electron CSS injection.
+*Node.js, Electron, CSS*
+
+---
+
+## Focus Areas
+
 - Network automation and infrastructure-as-code
 - Cloud infrastructure (Azure)
 - API integration and secure credential management
 - Container orchestration and deployment
-- Systems automation
+- AI/ML tooling and developer experience
 
-**Repository Standards**
-Each project includes documentation, example configurations, and clear README files. Code follows industry best practices for the respective technology stack.
-
----
-
-## Technical Background
-
-**Lead Systems Engineer** | Infrastructure Automation, Cloud Architecture, Enterprise Network Engineering
-
-**Connect**: [Website](https://max-thomas.com/) • [Links](https://links.max-thomas.com/) • [LinkedIn](https://www.linkedin.com/in/max-thomas-9a1452b0/) • [max@thomashomecompany.com](mailto:max@thomashomecompany.com)
-
-This portfolio represents work across:
-- **Network Engineering**: Cisco Meraki, Nexus switches, API automation
-- **Cloud Infrastructure**: Azure resource management, PowerShell automation
-- **Development**: Python, PowerShell, TypeScript, web technologies
-- **DevOps**: Terraform, Ansible, Docker, CI/CD patterns
-- **Security**: Azure Key Vault integration, secrets management
+All code is sanitized for public release with no secrets or sensitive information. Each project includes documentation and clear README files.
 
 ---
 
